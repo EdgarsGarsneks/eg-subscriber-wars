@@ -6,7 +6,7 @@
 
 Subscriber Wars is a simple web game that simulates the competition between small bots that are based on the my YouTube channel subscribers. It was created as a small celebration for reaching 100 subscriber milestone.
 
-<img src="./imgs/game.gif" alt="Subscriber Wars Game" width="100%">
+<img src="./imgs/game.gif" alt="Subscriber Wars Game" width="100%" loop="infinite">
 
 
 While it is not much, but I would like to have this as a first step in creating something were you my dear friends can contribute and take part of! 
