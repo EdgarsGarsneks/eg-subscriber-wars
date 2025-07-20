@@ -1,0 +1,72 @@
+html,
+body {
+    background: #0d0f12;
+    overflow: hidden;
+}
+
+#game {
+    position: absolute;
+    cursor: grab;
+    z-index: 1;
+    width: 100%;
+}
+
+#board {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 330px;
+    height: 100%;
+    background: #0009;
+    padding: 10px;
+    box-sizing: border-box;
+    border-left: 1px solid #fff3;
+    backdrop-filter: blur(4px);
+    font-size: 12px;
+    overflow-y: auto;
+    z-index: 1000;
+    color:white;
+}
+
+#board h2 {
+    margin: 0 0 6px;
+    text-align: center;
+    font-size: 16px
+}
+
+#board table {
+    width: 100%;
+    border-collapse: collapse
+}
+
+.stats-row:hover {
+    background: blue;
+    cursor: pointer
+}
+
+#board th,
+#board td {
+    padding: 3px;
+    border-bottom: 1px solid #fff5;
+    color: white;
+}
+
+.follow {
+    background: #2962ff55 !important
+}
+
+.subscribe-section{
+    position: absolute;
+    z-index: 1000;
+    bottom: 20px;
+    right: 350px;
+}
+
+#gh-link {
+    position: absolute;
+    top: 20px;
+    right: 310px;
+    z-index: 1001;
+    height: 80px;
+    width: 80px;
+}
