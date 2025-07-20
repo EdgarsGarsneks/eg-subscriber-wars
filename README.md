@@ -41,7 +41,3 @@ Goal of this project is to create a place where community can work together to c
 4. I don't want to be part of this game anymore!
     - You can either remove yourself from the game by removing your entry from `subscribers.json` file or creating issues to request removal. I will remove your bot from the game and you will not be able to join again.
 
-## Would you like to support this project?
-If you like this project and would like to support it, you can do so by buying me a book! I love reading and it would be great to have some new books to read.
-You can do so by clicking the button below:
-
